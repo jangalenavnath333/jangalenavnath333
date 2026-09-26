@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[your-portfolio-link]"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jangalenavnath333"><img src="https://img.shields.io/badge/GitHub-jangalenavnath333-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://newarts-casas-pgcet.in"><img src="https://img.shields.io/badge/Live%20Project-CET%20Portal-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
@@ -100,8 +98,6 @@ PHC → District Hospital health network with unique patient IDs and a live dise
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Maps](https://img.shields.io/badge/Maps-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-🔗 **[Repository]**
-
 </td>
 <td width="50%" valign="top">
 
@@ -109,8 +105,6 @@ PHC → District Hospital health network with unique patient IDs and a live dise
 Marathi-language chatbot giving practical farming advice to farmers.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-API-8B5CF6?style=flat-square&logo=openai&logoColor=white) ![Marathi](https://img.shields.io/badge/Language-Marathi-F97316?style=flat-square)
-
-🔗 **[Repository]**
 
 </td>
 </tr>
@@ -144,15 +138,20 @@ WhatsApp messaging automation through API integration.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jangalenavnath333&show_icons=true&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=jangalenavnath333&hide_border=true&background=0f172a&ring=06b6d4&fire=f97316&currStreakLabel=06b6d4&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jangalenavnath333&bg_color=0f172a&color=e2e8f0&line=06b6d4&point=f97316&area=true&area_color=06b6d4&hide_border=true" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="165" src="https://streak-stats.demolab.com?user=jangalenavnath333&hide_border=true&background=1a1b27&ring=06b6d4&fire=f97316&currStreakLabel=06b6d4&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 </p>
 
-<!-- Snake animation (works after the GitHub Action runs once) -->
+<p align="center">
+  <img height="165" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<!-- Snake animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangalenavnath333/jangalenavnath333/output/github-snake-dark.svg" />
