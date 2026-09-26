@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/navnath-jangale-9924362b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jangalenavnath333"><img src="https://img.shields.io/badge/GitHub-jangalenavnath333-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://newarts-casas-pgcet.in"><img src="https://img.shields.io/badge/Live%20Project-CET%20Portal-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
